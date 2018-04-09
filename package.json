@@ -1,0 +1,12 @@
+{
+  "name": "degrees-of-wiki",
+  "version": "0.0.1",
+  "description": "How far a Wikipedia page is from another. Wikipedia graph traversal",
+  "main": "index.js",
+  "author": "Jeremie Amano",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
